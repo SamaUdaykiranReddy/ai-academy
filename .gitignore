@@ -1,0 +1,11 @@
+echo "node_modules/
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.next/
+dist/
+build/
+*.log" > .gitignore
